@@ -27,17 +27,14 @@ I design, build, and optimize high-performance web, mobile, and cloud applicatio
 ---
 
 ### Key Accomplishments
-* **Lead Architect:** Designed and scaled the ProtectAll Enterprise Platform, managing 16+ high-traffic portals.
-* **AWS Cloud Setup:** Built EC2/S3/CloudFront infrastructures and automated CI/CD pipelines, optimizing hosting budgets.
-* **Low-Latency Systems:** Built WebRTC-based video/screen-sharing systems using Mediasoup and Node.js.
-* **AI Dev Tools:** Created automated PR code reviewers and transcript summarizers.
-
----
-
-### Highlight Projects
-* 🌟 **Grabies Live** — On-Demand Service Platform (React, Formik, NoSQL)
-* 💬 **Sandesh Lite** — Real-Time Chat App (Socket.io, Firebase, Material UI)
-* 🖼️ **Photos Provider** — Asynchronous image discovery integrated with Pixabay API.
+* **Enterprise Platform Architecture:** Designed and scaled the **ProtectAll Enterprise Platform**, architecting 16+ high-traffic portals (Claims, Work Orders, Dealer, Mattress, and Home Claims) ensuring secure cross-platform API communications.
+* **AWS Cloud & Cost Optimization:** Provisioned EC2/S3/CloudFront infrastructures and automated CI/CD deployment pipelines, optimizing cloud resources to significantly reduce monthly hosting budgets.
+* **Zoho CRM Workflows:** Built complex CRM blueprints and automated background services to sync data between customer portals and CRM workflows, using Zoho Sign for automated contract execution.
+* **Low-Latency Collaboration (WebRTC):** Architected WebRTC video and screen-sharing systems utilizing Mediasoup (SFU) and Node.js with custom Socket.io signaling to support multi-user synchronization.
+* **Internal HRMS & Automation:** Developed **HRMS-Edelta**, a full-scale employee management platform handling Announcements, Social Feed, Asset Allocation, and automated Payroll.
+* **Hybrid Mobile Wrapper Apps:** Built hybrid wrapper interfaces using Capacitor for a web-based Textile ERP system, rendering native-like mobile applications.
+* **Database Migration Pipelines:** Built custom scraping and automated migration tools to export, format, and seed legacy client databases into our new ERP database schema.
+* **AI Productivity Bots:** Created developer tooling including an automated AI Pull Request Reviewer bot for GitHub audits and an AI-powered Meeting Transcriber for standup summary generation.
 
 ---
 
@@ -46,11 +43,11 @@ I design, build, and optimize high-performance web, mobile, and cloud applicatio
 #### 👨‍💻 Personal Stats (`Darshan-Dhameliya`)
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darshan-Dhameliya&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darshan-Dhameliya&theme=dark" alt="Top Langs" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Darshan-Dhameliya&theme=dark&hide_border=true" alt="Personal Streak Stats" width="48%" />
 </p>
 
 #### 🏢 Work Stats (`darshan-edelta`)
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshan-edelta&theme=dark" alt="Work GitHub Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshan-edelta&theme=dark" alt="Work Top Langs" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=darshan-edelta&theme=dark&hide_border=true" alt="Work Streak Stats" width="48%" />
 </p>
