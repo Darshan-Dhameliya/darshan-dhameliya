@@ -35,15 +35,15 @@ I design, build, and optimize high-performance web, mobile, and cloud applicatio
 ---
 
 ### Highlight Projects
-* 🌟 **[Grabies Live](https://github.com/darshan-dhameliya/grabies-live)** — On-Demand Service Platform (React, Formik, NoSQL)
-* 💬 **[Sandesh Lite](https://github.com/darshan-dhameliya/sandesh-lite)** — Real-Time Chat App (Socket.io, Firebase, Material UI)
-* 🖼️ **[Photos Provider](https://github.com/darshan-dhameliya/photos-provider)** — Asynchronous image discovery integrated with Pixabay API.
+* 🌟 **Grabies Live** — On-Demand Service Platform (React, Formik, NoSQL)
+* 💬 **Sandesh Lite** — Real-Time Chat App (Socket.io, Firebase, Material UI)
+* 🖼️ **Photos Provider** — Asynchronous image discovery integrated with Pixabay API.
 
 ---
 
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshan-dhameliya&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshan-dhameliya&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Langs" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darshan-Dhameliya&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darshan-Dhameliya&theme=dark" alt="Top Langs" width="48%" />
 </p>
