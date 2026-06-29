@@ -41,9 +41,16 @@ I design, build, and optimize high-performance web, mobile, and cloud applicatio
 
 ---
 
-### GitHub Stats
+### GitHub Stats (Personal vs. Work)
 
+#### 👨‍💻 Personal Stats (`Darshan-Dhameliya`)
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darshan-Dhameliya&theme=dark" alt="GitHub Stats" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Darshan-Dhameliya&theme=dark" alt="Top Langs" width="48%" />
+</p>
+
+#### 🏢 Work Stats (`darshan-edelta`)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshan-edelta&theme=dark" alt="Work GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshan-edelta&theme=dark" alt="Work Top Langs" width="48%" />
 </p>
