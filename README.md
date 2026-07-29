@@ -1,11 +1,18 @@
 # Darshan Dhameliya
+
 **Technical Lead & Full-Stack Architect**
+
 [Portfolio](https://darshan-dhameliya.web.app/) • [LinkedIn](https://linkedin.com/in/darshan-dhameliya) • [Email](mailto:iamdhameliya@gmail.com)
+
 ---
+
 ### About Me
 I design, build, and optimize high-performance web, mobile, and cloud applications. Experienced in leading development teams, scaling SaaS infrastructures, and automating business workflows.
+
 ---
+
 ### Tech Stack
+
 <p align="left">
   <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=js,ts,py,mysql,postgres,mongodb,redis" alt="Languages & Databases" />
@@ -14,8 +21,11 @@ I design, build, and optimize high-performance web, mobile, and cloud applicatio
   <!-- Frameworks & Tools -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,aws,docker,firebase,heroku,githubactions" alt="Frameworks & Cloud Tools" />
 </p>
+
 *(JavaScript, TypeScript, Python, SQL, React, React Native, Next.js, Node.js, Express, AWS, Docker, Firebase, Heroku, GitHub Actions)*
+
 ---
+
 ### Key Accomplishments
 * **Enterprise Platform Architecture:** Designed and scaled the **ProtectAll Enterprise Platform**, architecting 16+ high-traffic portals (Claims, Work Orders, Dealer, Mattress, and Home Claims) ensuring secure cross-platform API communications.
 * **AWS Cloud & Cost Optimization:** Provisioned EC2/S3/CloudFront infrastructures and automated CI/CD deployment pipelines, optimizing cloud resources to significantly reduce monthly hosting budgets.
@@ -25,8 +35,11 @@ I design, build, and optimize high-performance web, mobile, and cloud applicatio
 * **Hybrid Mobile Wrapper Apps:** Built hybrid wrapper interfaces using Capacitor for a web-based Textile ERP system, rendering native-like mobile applications.
 * **Database Migration Pipelines:** Built custom scraping and automated migration tools to export, format, and seed legacy client databases into our new ERP database schema.
 * **AI Productivity Bots:** Created developer tooling including an automated AI Pull Request Reviewer bot for GitHub audits and an AI-powered Meeting Transcriber for standup summary generation.
+
 ---
+
 ### GitHub Stats (Personal vs. Work)
+
 #### 👨‍💻 Personal Stats (`Darshan-Dhameliya`)
 <p align="left">
   <object data="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darshan-Dhameliya&theme=dark" type="image/svg+xml" width="48%">
@@ -36,6 +49,7 @@ I design, build, and optimize high-performance web, mobile, and cloud applicatio
     <img src="https://img.shields.io/badge/Streak%20Stats-Temporarily%20Unavailable-orange?style=flat-square&logo=github" alt="Personal Streak Stats unavailable" />
   </object>
 </p>
+
 #### 🏢 Work Stats (`darshan-edelta`)
 <p align="left">
   <object data="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshan-edelta&theme=dark" type="image/svg+xml" width="48%">
